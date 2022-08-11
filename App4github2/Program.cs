@@ -7,6 +7,8 @@ namespace App4github2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("today is thursday");
+
         }
     }
 }
