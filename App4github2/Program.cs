@@ -8,6 +8,7 @@ namespace App4github2
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("today is thursday");
+            Console.WriteLine("Month is August");
 
         }
     }
